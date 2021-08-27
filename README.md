@@ -1,9 +1,9 @@
 # Getting Started with Create React JS App
 
 ### Commands
-gitclone \
-npm install \
-npm start 
+1. Clone the repo using gitclone \
+2. Run npm install \
+3. Run npm start 
 
 ### `npm run build`
 
