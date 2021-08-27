@@ -1,9 +1,8 @@
 # Getting Started with Create React JS App
 
-## Scripts to use
-# git Clone
-# npm install
-# npm start
+### gitclone
+### npm install
+### npm start
 
 ### `npm run build`
 
